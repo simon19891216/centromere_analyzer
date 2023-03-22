@@ -5,4 +5,4 @@ Furthermore, it can also be used for analyzing retrotransposon, repeat monomer a
 
 If you want to analyze retrotransposon, you need to download a database file before analyzing. 
 
-For Chinese users, you can download the related file (based on the relationships of your studied species) from the website of https://www.aliyundrive.com/s/v2dCXgU55jr. For others, you can download the *fasta* file from the website of https://bioinformatics.um6p.ma/PlantLTRdb/data/download/.
+For Chinese users, you can download the related file (based on the relationships of your studied species) from the website of https://www.aliyundrive.com/s/v2dCXgU55jr. For others, you can download the * fasta*  file from the website of https://bioinformatics.um6p.ma/PlantLTRdb/data/download/.
